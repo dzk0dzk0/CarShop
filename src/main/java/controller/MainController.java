@@ -8,6 +8,7 @@ import model.maper.MainMapper;
 import service.MainService;
 
 public class MainController {
+
     private final MainService mainService;
     private final MainMapper mainMapper;
 
